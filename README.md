@@ -14,6 +14,7 @@ This shows the dockable window with the tools in it.
 
 ## Dockable tools
 There are two tools in the dockable window.
+
 1.Parenting
 Use this tool to parent one object to another.
 Simply select the object you want to parent to another, and press the button.
